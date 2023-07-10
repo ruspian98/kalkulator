@@ -15,6 +15,6 @@ if you use windows :
 - install python
 - install git
 - run command :
-- 
-    python3 main.py
+    https://github.com/ruspian98/kalkulator.git
+    python main.py
   
