@@ -13,6 +13,8 @@ if you use windows :
 - download file
 - open CMD or PowerShell
 - install python
-- - run command :
+- install git
+- run command :
+- 
     python3 main.py
   
