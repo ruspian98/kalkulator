@@ -2,5 +2,17 @@
 
 how to use:
 
-if you use operating system windows open CMD or PowerShell
+- download file
+- open terminal
+- run command :
+    python3 main.py
 
+
+if you use windows :
+
+- download file
+- open CMD or PowerShell
+- install python
+- - run command :
+    python3 main.py
+  
